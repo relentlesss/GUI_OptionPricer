@@ -1,4 +1,5 @@
 # GUI_OptionPricer
+Welcome to the Option Pricers GUI
 
 ## GUI Home window
 <img width="365" alt="image" src="https://github.com/relentlesss/GUI_OptionPricer/assets/50775594/466b8a54-9eb1-412b-be18-ee1cc633eeef">
